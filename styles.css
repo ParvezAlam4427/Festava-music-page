@@ -175,7 +175,7 @@ h1{
             font-size: 1.5em;
         }
 
- 
+ /* artist */
 
 .container-three {
      background-image: url('https://s.hdnux.com/photos/01/27/30/71/22908508/4/rawImage.jpg'); /* Replace with your image */
@@ -203,7 +203,7 @@ h1{
     margin: 50PX;
 }
 .artist-first:hover{
-    opacity: 0.2;
+    opacity: 0.5;
     
 }
 
@@ -219,9 +219,9 @@ h1{
 
 .artist-image {
     width: 50%;
-    height: auto;
+   
     border-radius: 8px;
-    transition: opacity 0.3s;
+   
 }
 
 .info {
@@ -279,6 +279,8 @@ table{
     border: 2px solid black;
     text-align: center;
     background-color: rgb(241, 180, 67);
+    border-radius: 50px 50px 50px 50px;
+   
  
     
    
